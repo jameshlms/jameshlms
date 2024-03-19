@@ -11,7 +11,7 @@ my_dict: dict = {
     "name": "James Holmes",
     "occupation": "Student",
     "language_proficiencies": ["Python", "Java", "C#"],
-    "areas_of_study": ["Data Science", "AI", "Computer Science"]
+    "areas_of_study": ["Data Science", "AI", "Computer Science"],
     "favorite_beverage": "Coca Cola"
 }
 ```
