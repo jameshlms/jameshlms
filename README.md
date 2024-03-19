@@ -1,4 +1,30 @@
-### Hi there 👋
+# A Little Bit About Me
+
+This README.md is a short description of me to get to know me a little bit.
+
+## Dictionary
+
+A dictionary representation about some details about me.
+
+```python
+my_dict: dict = {
+    "name": "James Holmes",
+    "occupation": "Student",
+    "language_proficiencies": ["Python", "Java", "C#"],
+    "areas_of_study": ["Data Science", "AI", "Computer Science"]
+    "favorite_beverage": "Coca Cola"
+}
+```
+
+## Current Projects
+
+Currently due to focusing on my studies, developing my own projects has been a slow process.
+
+As of now I am slowly developing my own web portfolio to demonstrate my coding abilities.
+
+## Contact Info
+
+N/A
 
 <!--
 **jameshlms/jameshlms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
