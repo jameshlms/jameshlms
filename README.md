@@ -2,21 +2,13 @@
 
 This README.md is a short description of me to get to know me a little bit.
 
-## Dictionary
+## James Holmes
 
-A dictionary representation about some details about me.
+A programmer set on learning the most I can.
 
-```python
-my_dict: dict = {
-    "name": "James Holmes",
-    "occupation": "Student",
-    "language_proficiencies": ["Python", "Java", "C#"],
-    "areas_of_study": ["Data Science", "AI", "Computer Science"],
-    "favorite_beverage": "Coca Cola"
-}
-```
+## Description
 
-## Current Projects
+Currently I am studying data science and AI development.
 
 Currently due to focusing on my studies, developing my own projects has been a slow process.
 
