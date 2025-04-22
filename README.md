@@ -1,21 +1,16 @@
-# A Little Bit About Me
+# READ about ME!
 
-This README.md is a short description of me to get to know me a little bit.
+A short README.md of who I am.
 
 ## James Holmes
 
-A programmer set on learning the most I can.
+### Career & Study
+Currently, a student pursuing a career in data science and machine learning engineering (maybe even data engineering). I am working to obtain my Bachelors of Science in Data Science and after a Masters in Data Science and Business Analytics.
 
-## Description
-
-Currently I am studying data science and AI development.
-
-Currently due to focusing on my studies, developing my own projects has been a slow process.
-
-As of now I am slowly developing my own web portfolio to demonstrate my coding abilities.
+### Interests in my Field
+I find that data (when used responsibly) can help us find paths to potential solutions and help get rid of inconenviences in our lives, even if we may not know exactly the "why" of it. Even the way we store and move data between data storage to the hands of data scientists and analysts is a game of consistency and ease-of-use.
 
 ## Contact Info
-
 N/A
 
 <!--
