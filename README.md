@@ -1,21 +1,22 @@
-# jameshlms
+# jameshlms 👤
 
-Hello! I'm James, a student pursuing a bachelor's of science in data science, planning to work with data pipelines, machine learning engineering, and analytical reporting.
+👋 Hello!
+I'm James, a student pursuing a bachelor's of science in data science, planning to work with data pipelines, machine learning engineering, and analytical reporting.
 
 > Links to other profiles about me: 
 > - [LinkedIn](www.linkedin.com/in/jameshlms)
 
-## What I Do
+## What I Do 💻
 
-I develop small projects for the time being, pertaining to topics and technologies that interest me and will further my career. Recently I've been learning and building projects about end-to-end pipelines for data and the handling of the data lifecycle from data storage solutions to model training to serving.
+🛠️ I develop small projects for the time being, pertaining to topics and technologies that interest me and will further my career. Recently I've been learning and building projects about end-to-end pipelines for data and the handling of the data lifecycle from data storage solutions to model training to serving.
 
-I attend the University of North Carolina at Charlotte and in my third year of the bachelor's of science in data science.
+🍎 I attend the University of North Carolina at Charlotte and in my third year of the bachelor's of science in data science.
 
-## Skills and Tools
+## Skills and Tools 🧩
 
 These are skills and tools I've learned over time from projects, personal learning, and school.
 
-### Langauges
+### 🖍️ Langauges 
 | Language | Aspects and Skills | Experience |
 |-|-|-|
 | Python | Performance optimizaion, data processing libraries, API libraries, module development, OOP and FP | 4 years |
@@ -23,14 +24,14 @@ These are skills and tools I've learned over time from projects, personal learni
 | SQL | Joining tables and safe mutation operations | 1 year |
 | JavaScript/TypeScript | async/await, DOM control, module development, OOP and FP | 2 years |
 
-### Libraries
+### 📚 Libraries
 | Purpose | Revelant Libraries | Aspects and Skills |
 |-|-|-|
 | Data Processing | Pandas, NumPy | Reading from diverse sources, groupby, vectorized operations |
 | Machine Learning | SciKit-Learn, (learning) TensorFlow | Classifications, linear and non-linear regression, perforamce evaluations |
 | API Development | Flask, ASP.NET, Robyn | Serving data, exposing controlled model endpoints, versioning, rate limiting |
 
-### Development
+### 📦 Development
 __IDEs:__
 - VS Code (notebooks, light web development, and Python)
 - PyCharm (Python)
@@ -38,10 +39,10 @@ __IDEs:__
 - Visual Studio (C# and other support languages)
   
 __Tools:__
-- GitHub
-- Git
+- GitHub (Managing repositories, pushing to remotes, collaboration)
+- Git (bBranching, local version controll)
 
-## Contact Info
+## Contact Info ☎️
 Refer to my LinkedIn!
 
 <!--
