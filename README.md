@@ -6,7 +6,7 @@ I'm James, a student pursuing a bachelor's of science in data science, planning 
 > Links to other profiles about me: 
 > - [LinkedIn](www.linkedin.com/in/jameshlms)
 
-## What I Do 💻
+## What I do 💻
 
 🛠️ I develop small projects for the time being, pertaining to topics and technologies that interest me and will further my career. Recently I've been learning and building projects about end-to-end pipelines for data and the handling of the data lifecycle from data storage solutions to model training to serving.
 
@@ -17,6 +17,7 @@ I'm James, a student pursuing a bachelor's of science in data science, planning 
 These are skills and tools I've learned over time from projects, personal learning, and school.
 
 ### 🖍️ Langauges 
+
 | Language | Aspects and Skills | Experience |
 |-|-|-|
 | Python | Performance optimizaion, data processing libraries, API libraries, module development, OOP and FP | 4 years |
@@ -25,6 +26,7 @@ These are skills and tools I've learned over time from projects, personal learni
 | JavaScript/TypeScript | async/await, DOM control, module development, OOP and FP | 2 years |
 
 ### 📚 Libraries
+
 | Purpose | Revelant Libraries | Aspects and Skills |
 |-|-|-|
 | Data Processing | Pandas, NumPy | Reading from diverse sources, groupby, vectorized operations |
@@ -32,6 +34,7 @@ These are skills and tools I've learned over time from projects, personal learni
 | API Development | Flask, ASP.NET, Robyn | Serving data, exposing controlled model endpoints, versioning, rate limiting |
 
 ### 📦 Development
+
 __IDEs:__
 - VS Code (notebooks, light web development, and Python)
 - PyCharm (Python)
@@ -41,6 +44,15 @@ __IDEs:__
 __Tools:__
 - GitHub (Managing repositories, pushing to remotes, collaboration)
 - Git (bBranching, local version controll)
+
+## 💡 Personal Bits
+
+I like being surrounded by people whether they're friends, classmates, or coworkers. I prioritize warmth in my interactions while fitting the environment like professional settings or friendly group work. I find fulfillment in being helpful to others and being an individual that can be sought to for assistance. I do my best to address help in ways that feel genuine and productive.
+
+I have a handful of interests like...
+- Coffee making with my Bialetti Moka Pot, still working on my latte art skills though!
+- Watching various genres of movies and reading comic books (especially Batman ones)
+- Cooking for myself and friends and trying recipes and food from places with unique and differing palettes and history to those of cultures I'm familiar with.
 
 ## Contact Info ☎️
 Refer to my LinkedIn!
