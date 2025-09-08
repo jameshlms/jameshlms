@@ -1,4 +1,4 @@
-# jameshlms 👤
+# jameshlms
 
 👋 Hello!
 I'm James, a student pursuing a bachelor's of science in data science, planning to work with data pipelines, machine learning engineering, and analytical reporting.
