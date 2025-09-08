@@ -43,7 +43,7 @@ __IDEs:__
   
 __Tools:__
 - GitHub (Managing repositories, pushing to remotes, collaboration)
-- Git (bBranching, local version controll)
+- Git (Branching, local version controll)
 
 ## 💡 Personal Bits
 
