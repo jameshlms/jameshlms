@@ -54,7 +54,7 @@ I have a handful of interests like...
 - Watching various genres of movies and reading comic books (especially Batman ones)
 - Cooking for myself and friends and trying recipes and food from places with unique and differing palettes and history to those of cultures I'm familiar with.
 
-## Contact Info ☎️
+## ☎️ Contact Info
 Refer to my LinkedIn!
 
 <!--
