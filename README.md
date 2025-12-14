@@ -21,8 +21,8 @@ These are skills and tools I've learned over time from projects, personal learni
 | Language | Aspects and Skills | Experience |
 |-|-|-|
 | Python | Performance optimizaion, data processing libraries, API libraries, module development, OOP and FP | 4 years |
-| C# | LINQ, API development, integration with Azure, OOP | 2 years |
-| SQL | Joining tables and safe mutation operations | 1 year |
+| C# | LINQ, API development, DI | 2 years |
+| SQL | Joining tables and schema organization | 1 year |
 | JavaScript/TypeScript | async/await, DOM control, module development, OOP and FP | 2 years |
 
 ### 📚 Libraries
