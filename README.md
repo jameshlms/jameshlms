@@ -1,7 +1,7 @@
 # jameshlms
 
 👋 Hello!
-I'm James, a student pursuing a bachelor's of science in data science, planning to work with data pipelines, machine learning engineering, and analytical reporting.
+I'm James, a student pursuing a bachelor of science in data science and a master of science in data science and business analytics, planning to work with data pipelines, machine learning engineering, and analytical reporting.
 
 > Links to other profiles about me: 
 > - [LinkedIn](www.linkedin.com/in/jameshlms)
