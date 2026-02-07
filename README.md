@@ -16,7 +16,7 @@ I'm James, a student pursuing a bachelor of science in data science and a master
 
 These are skills and tools I've learned over time from projects, personal learning, and school.
 
-### 🖍️ Langauges 
+### 🖍️ Languages 
 
 | Language | Aspects and Skills | Experience |
 |-|-|-|
